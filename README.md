@@ -1,4 +1,4 @@
-# linux-totorial
+# linux-tutorial
 
 
 
